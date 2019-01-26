@@ -1,0 +1,408 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html><head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-1">
+  <meta name="Author" content="Matthew Lister">
+  <style type="text/css">
+A.leftmenu:link{color:#ffffff; text-decoration: none; font-size: 14px; }
+A.leftmenu:visited{color:#ffffff; text-decoration: none; font-size: 14px; }
+A.leftmenu:hover{color:#ffffff; text-decoration: underline; font-size: 14px; }
+
+A.navig:link{color:#0000cc; text-decoration: none; font-weight: normal; font-size: 14px; }
+A.navig:visited{color:#0000cc; text-decoration: none; font-weight: normal; font-size: 14px; }
+A.navig:hover{color:#ff0000; text-decoration: underline; font-weight: normal; font-size: 14px; }
+
+body{font-family: Helvetica; font-size:14;} td{font-face:
+Helvetica;font-color: #000000; font-size: 14px;}
+  </style>
+  <title>MOJAVE Sample: 0003+380 </title>
+</head>
+<body>
+&nbsp;
+
+<center>
+<table border="1" nosave="">
+  <tbody>
+    <tr nosave="">
+      <td BGCOLOR="#FFFFCC" style=" font-weight: bold;"><a
+ href="../Field_Descriptions.html" target="_blank"><font
+ color: rgb(0, 0, 0);>Common Name:</font></td>
+      <td BGCOLOR="#CCFFFF" style="text-align: center">S4 0003+38</td>
+      <td BGCOLOR="#FFFFCC"  style="width: 30%;  font-weight: bold; color: rgb(0,0,0); font-weight: bold;" #ffff00="" ;="" font-weight="" bold="">MOJAVE 15 GHz  <a href="../animated/0003+380.i.mpg">[Total intensity movie] &nbsp |  <a href="../animated/0003+380.pol.mpg">[Polariz. movie] </td>
+      <td BGCOLOR="#FFFFCC"  style=" font-weight: bold; color: rgb(0,0,0); font-weight: bold;">Kpc-scale: <a href="http://www.astro.caltech.edu/~tjp/surveys.html">Caltech-Jodrell Flat-Spectrum Survey</a></td>
+    </tr>
+    <tr nosave="">
+      <td BGCOLOR="#FFFFCC" style=" font-weight: bold; color: rgb(0,0,0);"><a
+ href="../Field_Descriptions.html" target="_blank">B1950
+Name:</td>
+      <td BGCOLOR="#CCFFFF" style="text-align: center;"> <a href="
+http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?search_type=Near+Position+Search&in_csys=Equatorial&in_equinox=J2000.0&lon=00+05+57.175393+&lat=+38+20+15.14904&radius=0.1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=Distance+to+search+center&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES&z_constraint=Unconstrained&z_value1=&z_value2=&z_unit=z&ot_include=ANY&nmp_op=ANY">0003+380</a></td>
+
+ <td rowspan="11"
+style="width: 30%; background-color: rgb(255, 255, 255); text-align: center;"
+nosave="" bgcolor="#ccccff"><img
+src="../animated/0003+380_anim.gif"; nosave=""
+style="border: 0px solid ; width: 372 px; height: 401px;" title="" alt="2 cm VLBA Image"></td>
+
+     <td BGCOLOR="#FFFFCC" rowspan="11"
+ style="width: 30%; text-align: center;background-color: rgb(255, 255, 255);" nosave=""><a
+ href="../kpcimages/0003+380.ps"><img
+ src="../kpcimages/0003+380.jpg" nosave=""
+ style="border: 0px solid ; " title=""
+ alt="map"></a></td>
+    </tr>
+    <tr nosave="">
+      <td BGCOLOR="#FFFFCC" style=" font-weight: bold; color: rgb(0,0,0);"><a
+ href="../Field_Descriptions.html" target="_blank">J2000
+Name:</td>
+
+<td BGCOLOR="#CCFFFF" style="text-align: center;"><a href="http://skyserver.sdss.org/dr14/en/tools/explore/summary.aspx?ra=1.48823080416667&dec=38.3375414">J0005+3820</a></td>
+    </tr>
+    <tr>
+      <td BGCOLOR="#FFFFCC"
+ style=" font-weight: bold; color: rgb(0,0,0);"><a
+ href="../Field_Descriptions.html" target="_blank">R.A. and Dec. (J2000):</td>
+      <td BGCOLOR="#CCFFFF"   style="text-align: center;">0h5m57.175s <br> +38d20'15.149"</td>
+    </tr>
+    <tr>
+      <td BGCOLOR="#FFFFCC"
+ style=" font-weight: bold; color: rgb(0,0,0);"><a
+ href="../Field_Descriptions.html" target="_blank">AGN
+Class:</td>
+      <td BGCOLOR="#CCFFFF"   style="text-align: center;">LSP Quasar </td>
+    </tr>
+    <tr>
+      <td BGCOLOR="#FFFFCC"  style=" font-weight: bold; color: rgb(0,0,0);"><a
+ href="../Field_Descriptions.html" target="_blank">Redshift:</td>
+      <td BGCOLOR="#CCFFFF"   style="text-align: center;"> 0.229 <a href="http://adsabs.harvard.edu/abs/1994A&AS..103..349S">(1994A&AS..103..349S)</a> </td>
+    </tr>
+     <td BGCOLOR="#FFFFCC"  style=" font-weight: bold; color: rgb(0,0,0);"><a
+ href="../Field_Descriptions.html" target="_blank">Luminosity Distance:</td>
+      <td BGCOLOR="#CCFFFF"   style="text-align: center;"> 1131 Mpc ; 3.63 pc/mas  </td>
+    </tr>
+    <tr>
+      <td BGCOLOR="#FFFFCC"
+ style=" font-weight: bold; color: rgb(0,0,0);"><a
+ href="../Field_Descriptions.html" target="_blank">Radio
+Spectrum:</td>
+      <td BGCOLOR="#CCFFFF"  style="text-align: center;">Flat </td>
+    </tr>
+    <tr>
+      <td BGCOLOR="#FFFFCC" style=" font-weight: bold; color: rgb(0,0,0);"><a
+ href="../Field_Descriptions.html" target="_blank">Gamma-ray Association</td>
+      <td BGCOLOR="#CCFFFF"  style="text-align: center;">LAT: Y, EGRET: N, TeV: N</td>
+    </tr>
+
+    <tr nosave="">
+      <td BGCOLOR="#FFFFCC"width="10%" nosave=""
+ style=" font-weight: bold; color: rgb(0,0,0);"><a
+ href="../Field_Descriptions.html" target="_blank">Kpc-scale
+morphology:</td>
+      <td BGCOLOR="#CCFFFF"  style="text-align: center;"> Core </td>
+    </tr>
+
+    <tr>
+      <td BGCOLOR="#FFFFCC"  style=" font-weight: bold; color: rgb(0,0,0);"><a
+ href="../Field_Descriptions.html" target="_blank">Jet Speed:</td>
+      <td BGCOLOR="#CCFFFF"  style="text-align: center;">Maximum: 317 ± 25 &mu;as/y ; 4.61 ± 0.36 c <br> Median: 39 ± 10 &mu;as/y ; 0.57 ± 0.15 c <br><a href="../velocitytable.html"> based on 5 moving features   </a> <br><a href="http://www.physics.purdue.edu/MOJAVE/MOJAVEXVII.pdf">Lister et al. 2019, ApJ, submitted</td>
+    </tr>
+
+<tr>
+      <td BGCOLOR="#FFFFCC"  style=" font-weight: bold; color: rgb(0,0,0);"><a
+ href="../Field_Descriptions.html" target="_blank">Separation Versus Time Plot:</td>
+      <td BGCOLOR="#CCFFFF"  style="text-align: center;"> <a href="../sepvstime/0003+380_sepvstime.png"> PNG</a>  &nbsp;&nbsp; <a href="../sepvstime/0003+380_sepvstime.ps.gz"> PS</a> </td>
+    </tr>
+    <tr>
+      <td BGCOLOR="#FFFFCC" rowspan="2"  style="vertical-align: top;"
+ colspan="2"><span style="font-weight: bold;">Stacked epoch 15 GHz VLBA
+images:</span><br>
+
+Uniform weight: <a href="../stackedimages/0003+380.u.stacked.icu.ps.gz">[PS] </a> &nbsp <a href="../stackedimages/0003+380.u.stacked.icu.gif">[GIF] </a> <br> 
+Natural weight: <a href="../stackedimages/0003+380.u.stacked.icn.ps.gz">[PS] </a> &nbsp <a href="../stackedimages/0003+380.u.stacked.icn.gif">[GIF] </a> <br>
+Circular Beam : <a href="../stackedimages/0003+380.u.stacked.icc.ps.gz">[PS] </a> &nbsp <a href="../stackedimages/0003+380.u.stacked.icc.gif">[GIF] </a> <br>
+<a href = http://adsabs.harvard.edu/doi/10.1093/mnras/stx854> Pushkarev et al. 2017 </a>  : &nbsp <a href = "../stackedimages/paperXIV/0003+380.u.stacked.icc.fits.gz">  FITS <br>
+
+<br>
+<span style="font-weight: bold;"><a href="http://adsabs.harvard.edu/abs/2012AJ....144..105H">Rotation Measure Map</a>:</span> |  <a href="../rmmaps/rm_multi_0003+380.2006_12_01.png">2006_12_01 </a>   |   
+<br><br>
+<span style="font-weight: bold;"><a href="http://iopscience.iop.org/1538-3881/147/6/143/">Spectral Index Map</a>:</span> |  <a href="../spmaps/0003+380.2006_03_09_alpha_paper_gray.png">2006_03_09 </a>   |   <a href="../spmaps/0003+380.2006_12_01_alpha_paper_gray.png"> 2006_12_01</a><br>
+<br>
+<br>
+<br>
+
+
+
+
+
+      <br>
+      <span style="font-weight: bold;">Multifrequency MOJAVE VLBA Data:</span><br>
+<br>
+     
+      <table style="text-align: left; width: 100%;" border="1" cellpadding="2" cellspacing="2">
+        <tbody>
+          <tr>
+            <td style="vertical-align: top; text-align: center;"><span style="font-weight: bold;">Epoch</span><br>
+            </td>
+            <td style="vertical-align: top; font-weight: bold; text-align: center;">8.1 GHz<br>
+            </td>
+            <td style="vertical-align: top; font-weight: bold; text-align: center;">8.4 GHz<br>
+            </td>
+            <td style="vertical-align: top; font-weight: bold; text-align: center;">12.1 GHz<br>
+            </td>
+          </tr>
+          <tr>
+            <td style="vertical-align: text-align: center; top;">2006-12-01<br>
+            </td>
+            <td style="vertical-align: top;"><a href="http://www.cv.nrao.edu/2cmVLBA/data/multifreq/0003+380.x.2006_12_01.uvf"> uvf  </a>&nbsp;   <br>
+            </td>
+            <td style="vertical-align: top;"><a href="http://www.cv.nrao.edu/2cmVLBA/data/multifreq/0003+380.y.2006_12_01.uvf"> uvf  </a>&nbsp;   <br>
+            </td>
+            <td style="vertical-align: top;"><a href="http://www.cv.nrao.edu/2cmVLBA/data/multifreq/0003+380.j.2006_03_09.uvf"> uvf  </a>&nbsp;   <br>
+</td>
+          </tr>
+          <tr>
+<td style="vertical-align: text-align: center; top;">2006-03-09<br>
+</td>
+          <td style="vertical-align: top;"><a href="http://www.cv.nrao.edu/2cmVLBA/data/multifreq/0003+380.x.2006_03_09.uvf"> uvf </a>&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/multifreq/0003+380.x.2006_03_09.i_0.1.fits.gz"> FITS </a>&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/multifreq/0003+380.x.2006_03_09.ps.gz"> PS </a>&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/multifreq/0003+380.x.2006_03_09_color.png"> PNG </a>&nbsp;<br>
+            </td>
+            <td style="vertical-align: top;"><a href="http://www.cv.nrao.edu/2cmVLBA/data/multifreq/0003+380.y.2006_03_09.uvf"> uvf </a>&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/multifreq/0003+380.y.2006_03_09.i_0.1.fits.gz"> FITS </a>&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/multifreq/0003+380.y.2006_03_09.ps.gz"> PS </a>&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/multifreq/0003+380.y.2006_03_09_color.png"> PNG </a>&nbsp;<br>
+            </td>
+            <td style="vertical-align: top;"><a href="http://www.cv.nrao.edu/2cmVLBA/data/multifreq/0003+380.j.2006_12_01.uvf"> uvf </a>&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/multifreq/0003+380.j.2006_12_01.i_0.1.fits.gz"> FITS </a>&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/multifreq/0003+380.j.2006_12_01.ps.gz"> PS </a>&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/multifreq/0003+380.j.2006_12_01_color.png"> PNG </a>&nbsp;<br>
+</td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      
+
+      </td>
+      <td BGCOLOR="#FFFFCC"
+ style="vertical-align: top; "><span
+ style="font-weight: bold;">VLBA 1.4 GHz: BG246</span><br>
+      </td>
+      <td BGCOLOR="#FFFFCC"
+ style="vertical-align: top; "><span
+ style="font-weight: bold;">Multiepoch Radio Spectrum:</span><br>
+      </td>
+    </tr>
+    <tr>
+     <td style="text-align: center;"><a href="../index_files/null.jpg"><img
+ src="../index_files/null.jpg" title=""
+ alt="1.4 GHz Image" width="90%"; heigh="90%"; style="border: 0px solid" align="middle"><br>
+      </td>
+      <td style="vertical-align: middle;text-align: center; "><a href="http://www.cv.nrao.edu/2cmVLBA/radiospectra/0003+380sp.png"><img
+ src="http://www.cv.nrao.edu/2cmVLBA/radiospectra/small0003+380sp.png"
+ title="" alt="Multiepoch Radio Spectrum"; width ="100%"; height="100%";border: 0px solid"><br>
+      </td>
+    </tr>
+    <tr>
+      <td BGCOLOR="#FFFFCC"
+ style="vertical-align: top; "><a
+ href="../Field_Descriptions.html"
+ target="_blank">Comments:</a> </td>
+      <td colspan="3"
+ style="vertical-align: top; background-color: rgb(204, 255, 255);">Low-luminosity MOJAVE-2 source; Seyfert in NED
+      </td>
+    </tr>
+
+
+
+  </tbody>
+</table>
+<br>
+
+<div style="text-align: center; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);"><span
+style="font-style: italic;"><big style="font-weight: bold;"> 
+If you intend to use these data in a publication, we ask that you please <a href="mailto:yyk@asc.rssi.ru">let us know</a> so we can add a link to our  <a href="http://www.cv.nrao.edu/2cmsurvey/publications2.html">external publications page</a>, and that you include the following acknowledgment: "This research has made use of data from the MOJAVE database that is maintained by the MOJAVE team (<a href="http://adsabs.harvard.edu/abs/2018ApJS..234...12L">Lister et al., 2018, ApJS, 232, 12</a>)"
+
+</big></span></div>
+
+<table border="1"
+ style="width: 100%;  nosave="">
+  <tbody>
+    <tr style="color: rgb(0,0,0);">
+      <td BGCOLOR="#FFFFCC" NOSAVE;
+ style="font-weight: bold; text-align: center; vertical-align: middle;">Epoch<br>(Y-M-D)</td>       <td BGCOLOR="#FFFFCC"
+ style=" font-weight: bold; text-align: center; vertical-align: middle;">VLBA Code</td>
+      <td BGCOLOR="#FFFFCC"
+ style=" font-weight: bold; text-align: center; vertical-align: middle;">VLBA I<br> (mJy)<br>
+      </td>
+      <td BGCOLOR="#FFFFCC"  style=" font-weight: bold; text-align: center; vertical-align: middle;">VLBA P<br> (mJy)<br>
+      </td>
+      <td BGCOLOR="#FFFFCC"  style=" font-weight: bold; text-align: center; vertical-align: middle;">VLBA<br>P (%)<br>
+      </td>
+      <td BGCOLOR="#FFFFCC" style=" font-weight: bold; text-align: center; vertical-align: middle;">VLBA<br>EVPA (deg.)<br>
+      </td>
+      <td BGCOLOR="#FFFFCC" style=" font-weight: bold; text-align: center; vertical-align: middle;">I Image  (Nat. Weight) </td>
+       </td>
+      <td BGCOLOR="#FFFFCC" style=" font-weight: bold; text-align: center; vertical-align: middle;">Tapered I Image </td>
+
+      <td BGCOLOR="#FFFFCC" style=" font-weight: bold; text-align: center; vertical-align: middle;">Tapered I Image (Widefield) </td>
+
+
+<td BGCOLOR="#FFFFCC" style=" font-weight: bold; text-align: center; vertical-align: middle;">Visibility<br>Data<br>
+       </td>
+      <td BGCOLOR="#FFFFCC" style="text-align: center; vertical-align: middle;  font-weight: bold;">Stokes I Radplot</td>
+      <td BGCOLOR="#FFFFCC"  style="text-align: center; vertical-align: middle;  font-weight: bold;">Pol.<br> Image</td>
+    </tr>
+
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 2013-08-12 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> BL178BH </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 668 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 9.8 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 1.5 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 139 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2013_08_12/0003+380.u.2013_08_12.icn.fits.gz">FITS</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2013_08_12/0003+380.u.2013_08_12.icn_color.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2013_08_12/0003+380.u.2013_08_12.icn.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2013_08_12/0003+380.u.2013_08_12.ict.fits.gz">FITS</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2013_08_12/0003+380.u.2013_08_12.ict_color.png">PNG</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2013_08_12/0003+380.u.2013_08_12.ict.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2013_08_12/0003+380.u.2013_08_12.ictwf_color.png">PNG</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2013_08_12/0003+380.u.2013_08_12.ictwf.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2013_08_12/0003+380.u.2013_08_12.uvf">uvf</a>&nbsp;&nbsp; </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2013_08_12/0003+380.u.2013_08_12.irad.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2013_08_12/0003+380.u.2013_08_12.irad.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2013_08_12/0003+380.u.2013_08_12.pcn.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2013_08_12/0003+380.u.2013_08_12.pcn.ps.gz">PS</a> </td>
+</tr>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 2011-06-06 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> BL149DJ </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 605 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 2.1 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 0.3 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 108 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2011_06_06/0003+380.u.2011_06_06.icn.fits.gz">FITS</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2011_06_06/0003+380.u.2011_06_06.icn_color.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2011_06_06/0003+380.u.2011_06_06.icn.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2011_06_06/0003+380.u.2011_06_06.ict.fits.gz">FITS</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2011_06_06/0003+380.u.2011_06_06.ict_color.png">PNG</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2011_06_06/0003+380.u.2011_06_06.ict.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2011_06_06/0003+380.u.2011_06_06.ictwf_color.png">PNG</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2011_06_06/0003+380.u.2011_06_06.ictwf.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2011_06_06/0003+380.u.2011_06_06.uvf">uvf</a>&nbsp;&nbsp; </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2011_06_06/0003+380.u.2011_06_06.irad.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2011_06_06/0003+380.u.2011_06_06.irad.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2011_06_06/0003+380.u.2011_06_06.pcn.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2011_06_06/0003+380.u.2011_06_06.pcn.ps.gz">PS</a> </td>
+</tr>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 2010-07-12 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> BL149CL </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 438 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 10 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 2.4 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 132 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2010_07_12/0003+380.u.2010_07_12.icn.fits.gz">FITS</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2010_07_12/0003+380.u.2010_07_12.icn_color.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2010_07_12/0003+380.u.2010_07_12.icn.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2010_07_12/0003+380.u.2010_07_12.ict.fits.gz">FITS</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2010_07_12/0003+380.u.2010_07_12.ict_color.png">PNG</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2010_07_12/0003+380.u.2010_07_12.ict.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2010_07_12/0003+380.u.2010_07_12.ictwf_color.png">PNG</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2010_07_12/0003+380.u.2010_07_12.ictwf.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2010_07_12/0003+380.u.2010_07_12.uvf">uvf</a>&nbsp;&nbsp; </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2010_07_12/0003+380.u.2010_07_12.irad.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2010_07_12/0003+380.u.2010_07_12.irad.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2010_07_12/0003+380.u.2010_07_12.pcn.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2010_07_12/0003+380.u.2010_07_12.pcn.ps.gz">PS</a> </td>
+</tr>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 2009-03-25 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> BL149BJ </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 435 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 10 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 2.3 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 145 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2009_03_25/0003+380.u.2009_03_25.icn.fits.gz">FITS</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2009_03_25/0003+380.u.2009_03_25.icn_color.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2009_03_25/0003+380.u.2009_03_25.icn.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2009_03_25/0003+380.u.2009_03_25.ict.fits.gz">FITS</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2009_03_25/0003+380.u.2009_03_25.ict_color.png">PNG</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2009_03_25/0003+380.u.2009_03_25.ict.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2009_03_25/0003+380.u.2009_03_25.ictwf_color.png">PNG</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2009_03_25/0003+380.u.2009_03_25.ictwf.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2009_03_25/0003+380.u.2009_03_25.uvf">uvf</a>&nbsp;&nbsp; </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2009_03_25/0003+380.u.2009_03_25.irad.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2009_03_25/0003+380.u.2009_03_25.irad.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2009_03_25/0003+380.u.2009_03_25.pcn.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2009_03_25/0003+380.u.2009_03_25.pcn.ps.gz">PS</a> </td>
+</tr>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 2008-07-17 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> BL149AK </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 727 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 17 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 2.3 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 175 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_07_17/0003+380.u.2008_07_17.icn.fits.gz">FITS</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_07_17/0003+380.u.2008_07_17.icn_color.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_07_17/0003+380.u.2008_07_17.icn.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_07_17/0003+380.u.2008_07_17.ict.fits.gz">FITS</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_07_17/0003+380.u.2008_07_17.ict_color.png">PNG</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_07_17/0003+380.u.2008_07_17.ict.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_07_17/0003+380.u.2008_07_17.ictwf_color.png">PNG</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_07_17/0003+380.u.2008_07_17.ictwf.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_07_17/0003+380.u.2008_07_17.uvf">uvf</a>&nbsp;&nbsp; </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_07_17/0003+380.u.2008_07_17.irad.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_07_17/0003+380.u.2008_07_17.irad.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_07_17/0003+380.u.2008_07_17.pcn.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_07_17/0003+380.u.2008_07_17.pcn.ps.gz">PS</a> </td>
+</tr>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 2008-05-01 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> BL149AO </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 808 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 12 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 1.5 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 178 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_05_01/0003+380.u.2008_05_01.icn.fits.gz">FITS</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_05_01/0003+380.u.2008_05_01.icn_color.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_05_01/0003+380.u.2008_05_01.icn.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_05_01/0003+380.u.2008_05_01.ict.fits.gz">FITS</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_05_01/0003+380.u.2008_05_01.ict_color.png">PNG</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_05_01/0003+380.u.2008_05_01.ict.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_05_01/0003+380.u.2008_05_01.ictwf_color.png">PNG</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_05_01/0003+380.u.2008_05_01.ictwf.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_05_01/0003+380.u.2008_05_01.uvf">uvf</a>&nbsp;&nbsp; </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_05_01/0003+380.u.2008_05_01.irad.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_05_01/0003+380.u.2008_05_01.irad.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_05_01/0003+380.u.2008_05_01.pcn.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2008_05_01/0003+380.u.2008_05_01.pcn.ps.gz">PS</a> </td>
+</tr>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 2007-08-24 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> BL149AM </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 555 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 7.3 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 1.3 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 166 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_08_24/0003+380.u.2007_08_24.icn.fits.gz">FITS</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_08_24/0003+380.u.2007_08_24.icn_color.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_08_24/0003+380.u.2007_08_24.icn.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_08_24/0003+380.u.2007_08_24.ict.fits.gz">FITS</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_08_24/0003+380.u.2007_08_24.ict_color.png">PNG</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_08_24/0003+380.u.2007_08_24.ict.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_08_24/0003+380.u.2007_08_24.ictwf_color.png">PNG</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_08_24/0003+380.u.2007_08_24.ictwf.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_08_24/0003+380.u.2007_08_24.uvf">uvf</a>&nbsp;&nbsp; </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_08_24/0003+380.u.2007_08_24.irad.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_08_24/0003+380.u.2007_08_24.irad.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_08_24/0003+380.u.2007_08_24.pcn.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_08_24/0003+380.u.2007_08_24.pcn.ps.gz">PS</a> </td>
+</tr>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 2007-03-28 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> BL137P </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 604 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 5.6 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 0.9 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 144 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_03_28/0003+380.u.2007_03_28.icn.fits.gz">FITS</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_03_28/0003+380.u.2007_03_28.icn_color.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_03_28/0003+380.u.2007_03_28.icn.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_03_28/0003+380.u.2007_03_28.ict.fits.gz">FITS</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_03_28/0003+380.u.2007_03_28.ict_color.png">PNG</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_03_28/0003+380.u.2007_03_28.ict.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_03_28/0003+380.u.2007_03_28.ictwf_color.png">PNG</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_03_28/0003+380.u.2007_03_28.ictwf.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_03_28/0003+380.u.2007_03_28.uvf">uvf</a>&nbsp;&nbsp; </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_03_28/0003+380.u.2007_03_28.irad.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_03_28/0003+380.u.2007_03_28.irad.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_03_28/0003+380.u.2007_03_28.pcn.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2007_03_28/0003+380.u.2007_03_28.pcn.ps.gz">PS</a> </td>
+</tr>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 2006-12-01 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> BL137L </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 512 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 9.2 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 1.8 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 146 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_12_01/0003+380.u.2006_12_01.icn.fits.gz">FITS</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_12_01/0003+380.u.2006_12_01.icn_color.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_12_01/0003+380.u.2006_12_01.icn.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_12_01/0003+380.u.2006_12_01.ict.fits.gz">FITS</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_12_01/0003+380.u.2006_12_01.ict_color.png">PNG</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_12_01/0003+380.u.2006_12_01.ict.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_12_01/0003+380.u.2006_12_01.ictwf_color.png">PNG</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_12_01/0003+380.u.2006_12_01.ictwf.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_12_01/0003+380.u.2006_12_01.uvf">uvf</a>&nbsp;&nbsp; </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_12_01/0003+380.u.2006_12_01.irad.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_12_01/0003+380.u.2006_12_01.irad.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_12_01/0003+380.u.2006_12_01.pcn.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_12_01/0003+380.u.2006_12_01.pcn.ps.gz">PS</a> </td>
+</tr>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 2006-03-09 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> BL137B </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 650 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 16 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 2.5 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> 78 </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_03_09/0003+380.u.2006_03_09.icn.fits.gz">FITS</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_03_09/0003+380.u.2006_03_09.icn_color.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_03_09/0003+380.u.2006_03_09.icn.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_03_09/0003+380.u.2006_03_09.ict.fits.gz">FITS</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_03_09/0003+380.u.2006_03_09.ict_color.png">PNG</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_03_09/0003+380.u.2006_03_09.ict.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_03_09/0003+380.u.2006_03_09.ictwf_color.png">PNG</a>&nbsp;&nbsp; <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_03_09/0003+380.u.2006_03_09.ictwf.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_03_09/0003+380.u.2006_03_09.uvf">uvf</a>&nbsp;&nbsp; </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_03_09/0003+380.u.2006_03_09.irad.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_03_09/0003+380.u.2006_03_09.irad.ps.gz">PS</a> </td>
+     <td BGCOLOR="#CCFFFF" NOSAVE style="text-align: center;"> <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_03_09/0003+380.u.2006_03_09.pcn.png">PNG</a>&nbsp;&nbsp;  <a href="http://www.cv.nrao.edu/2cmVLBA/data/0003+380/2006_03_09/0003+380.u.2006_03_09.pcn.ps.gz">PS</a> </td>
+</tr>
+
+  </tbody>
+</table>
+<br>
+<table style="width: 100%; text-align: left;" border="1" cellpadding="2"
+cellspacing="2">
+<tbody>
+<tr>
+<td colspan="2" align="center" bgcolor="#ffffff" height="40"
+valign="top" width="600"><a class="navig" href="../index.html">Home</a> |
+<a class="navig" href="../project.html">Science</a> |
+<a class="navig" href="../sample.html">AGN Samples</a> |
+<a class="navig" href="../allsources.html">Data Archive</a> |
+<a class="navig" href="../data.html">Status</a> |
+<a class="navig" href="http://www.cv.nrao.edu/2cmsurvey/publications.html">Publications</a> |
+<a class="navig" href="../movies.html">Movies</a> | 
+<a class="navig" href="../rmmaps.html">RM Maps</a> |
+<a class="navig" href="../spmaps.html">&#945; Maps</a> |
+<a class="navig" href="../team.html">People</a> | 
+<a class="navig" href="../outreach.html">Outreach</a> </td>
+</tr>
+</tbody>
+</table>
+</center>
+</body>
+</html>
+
+<br></body></html>
