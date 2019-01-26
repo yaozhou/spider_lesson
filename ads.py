@@ -100,7 +100,7 @@ if (len(result['next_url']) > 1):
     print('crawl next page:')
     url = result['next_url'][1]
     print(url)
-    process_page1(url)
+    print(process_page1(url))
 
 temp_url = result['info'][0]['title_link']
 print(temp_url)
